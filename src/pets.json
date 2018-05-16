@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Small Solar Farm",
+    "picture": "images/solar-1.jpg",
+    "age": 2012,
+    "breed": "500 kW",
+    "location": "Localtown"
+  },
+  {
+    "id": 1,
+    "name": "Wind Farm",
+    "picture": "images/wind-1.jpg",
+    "age": 2009,
+    "breed": "50 MW",
+    "location": "Nearbysten"
+  },
+  {
+    "id": 2,
+    "name": "Small Solar Farm",
+    "picture": "images/solar-2.jpg",
+    "age": 2014,
+    "breed": "300 kW",
+    "location": "Hometown"
+  },
+  {
+    "id": 3,
+    "name": "Small Wind Farm",
+    "picture": "images/wind-2.jpg",
+    "age": 2012,
+    "breed": "10 MW",
+    "location": "Acrossthehill"
+  },
+  {
+    "id": 4,
+    "name": "Solar Farm",
+    "picture": "images/solar-3.jpg",
+    "age": 2008,
+    "breed": "20 MW",
+    "location": "Nearbysten"
+  },
+  {
+    "id": 5,
+    "name": "Wind Turbine",
+    "picture": "images/wind-3.jpg",
+    "age": 2011,
+    "breed": "5 MW",
+    "location": "Hometown"
+  },
+  {
+    "id": 6,
+    "name": "Hydro Power Plant",
+    "picture": "images/hydro-1.jpg",
+    "age": 1995,
+    "breed": "800 MW",
+    "location": "Localtown"
+  },
+  {
+    "id": 7,
+    "name": "Solar Farm",
+    "picture": "images/solar-6.jpg",
+    "age": 2004,
+    "breed": "50 MW",
+    "location": "Hometown"
+  },
+  {
+    "id": 8,
+    "name": "Wind Turbine",
+    "picture": "images/wind-6.jpg",
+    "age": 2010,
+    "breed": "5 MW",
+    "location": "Hometown"
+  },
+  {
+    "id": 9,
+    "name": "Solar Farm",
+    "picture": "images/solar-4.jpg",
+    "age": 2010,
+    "breed": "100 MW",
+    "location": "Acrossthehill"
+  },
+  {
+    "id": 10,
+    "name": "Small Wind Farm",
+    "picture": "images/wind-5.jpg",
+    "age": 2006,
+    "breed": "25 MW",
+    "location": "Accrossthehill"
+  },
+  {
+    "id": 11,
+    "name": "Hydro Power Plant",
+    "picture": "images/hydro-2.jpg",
+    "age": 1992,
+    "breed": "50 MW",
+    "location": "Hometown"
+  },
+  {
+    "id": 12,
+    "name": "Offshore Wind Farm",
+    "picture": "images/wind-off.jpg",
+    "age": 2017,
+    "breed": "200 MW",
+    "location": "Near Localtown"
+  },
+  {
+    "id": 13,
+    "name": "Hydro Power Plant",
+    "picture": "images/hydro-3.jpg",
+    "age": 1988,
+    "breed": "1 GW",
+    "location": "Nearbysten"
+  },
+  {
+    "id": 14,
+    "name": "Small Solar Farm",
+    "picture": "images/solar-5.jpg",
+    "age": 2013,
+    "breed": "200 kW",
+    "location": "Hometown"
+  },
+  {
+    "id": 15,
+    "name": "Wind Farm",
+    "picture": "images/wind-7.jpg",
+    "age": 2013,
+    "breed": "120 MW",
+    "location": "Acrossthehill"
+  }
+]
