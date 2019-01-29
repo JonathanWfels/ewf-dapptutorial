@@ -1,4 +1,4 @@
-pragma solidity ^0.4.17;
+pragma solidity ^0.5.0;
 
 contract Adoption {
 
@@ -14,7 +14,7 @@ function adopt(uint petId) public returns (uint) {
 }
 
 // Retrieving the adopters
-function getAdopters() public view returns (address[16]) {
+function getAdopters() public view returns (address[16] memory) {
   return adopters;
 }
 
